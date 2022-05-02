@@ -5,6 +5,6 @@ public class SkillDemoTest {
     @Test 
     public void subtraction() {
 		// A test that fails initially
-		assertEquals(3, SkillDemo.subtract(4,2));
+		assertEquals(2, SkillDemo.subtract(4,2));
 	}
 }
